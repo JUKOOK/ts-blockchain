@@ -1,0 +1,9 @@
+{
+  "name": "ts-blockchain",
+  "version": "1.0.0",
+  "description": "블록체인으로 타입스크립트 공부하기",
+  "main": "index.js",
+  "repository": "https://github.com/JUKOOK/ts-blockchain.git",
+  "author": "JUKOOK <wnrnrdl@gmail.com>",
+  "license": "MIT"
+}
